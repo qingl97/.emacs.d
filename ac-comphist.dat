@@ -1,1 +1,10 @@
-(nil)
+((("firecode-theme" .
+   [0 0 0 0 1 0 1 0 0 0 0 0 0 0])
+  ("solarized-theme" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("solitaire" .
+   [1 0 0 0 0 0 0 0 0])
+  ("load-theme" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("require" .
+   [1 0 0 0 0 0 1])))

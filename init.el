@@ -33,3 +33,6 @@
 
 ;; Fix iedit bug in Mac
 (define-key global-map (kbd "C-c ;") 'iedit-mode)
+
+;; enable dark-kry theme
+(require 'firecode-theme )
