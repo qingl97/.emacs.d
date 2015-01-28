@@ -53,5 +53,5 @@ secret.org
 agent/*
 
 !init.el
-
-ac-comphist.dat
+!elpa/*
+!ac-comphist.dat
